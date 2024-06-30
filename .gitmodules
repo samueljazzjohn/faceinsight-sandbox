@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:samueljazzjohn/faceinsight-dashboard.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:samueljazzjohn/faceinsight-service.git
